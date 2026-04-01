@@ -23,4 +23,4 @@ This project was heavily inspired by the [Kubernetes Threat Matrix](https://micr
 
 # Prior work
 I am far from the first person to come up with the idea to document this information. Many great projects exist that take a similar approach to this. Most notably what inspired this project was the [Microsoft Kubernetes Threat Matrix](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/). Additionally, late into putting this project together I discovered this amazing [Threat matrix from RedGuard](https://kubernetes-threat-matrix.redguard.ch/). Some other projects that served as inspiration for this include:
-- [Kubernetes Hacktricks](https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security)
+- [Kubernetes Hacktricks](https://cloud.hacktricks.wiki/en/pentesting-cloud/kubernetes-security/index.html)
